@@ -21,7 +21,7 @@ The crowd reacts naturally through force interactions, while the robot closes th
 
 Open the fully rendered notebook:
 
-https://nbviewer.org/github/nicolas-speranza/robotic-interference-with-crowd-evacuation-nicolas-speranza/blob/main/robotic-interference-with-crowd-evacuation.ipynb
+https://nbviewer.org/github/nicolas-speranza/robotic-interference-with-crowd-evacuation-nicolas-speranza/blob/main/robotic_interference_with_crowd_evacuation.ipynb
 
 ## Contents
 
