@@ -23,6 +23,7 @@ Open the fully rendered notebook:
 
 https://nbviewer.org/github/nicolas-speranza/robotic-interference-with-crowd-evacuation-nicolas-speranza/blob/main/robotic_interference_with_crowd_evacuation.ipynb
 
+
 ## Contents
 
 * Mathematical formulation
